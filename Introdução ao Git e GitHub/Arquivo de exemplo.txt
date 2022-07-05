@@ -1,0 +1,3 @@
+# Dúvidas
+
+Quando é criado uma pasta mas não existe nada dentro, o Git não considera a pasta como untracked file até existir algum arquivo dentro?
