@@ -1,3 +1,4 @@
 # Dúvidas
 
 Quando é criado uma pasta mas não existe nada dentro, o Git não considera a pasta como untracked file até existir algum arquivo dentro?
+Qual a diferença entre o comando "git add" e o "git commit"?
